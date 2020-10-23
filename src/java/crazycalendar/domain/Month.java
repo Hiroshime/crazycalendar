@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package altair2018.domain;
+package crazycalendar.domain;
 
 import java.util.List;
 

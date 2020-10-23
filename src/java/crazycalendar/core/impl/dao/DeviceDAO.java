@@ -14,16 +14,16 @@ import java.sql.Timestamp;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
-import altair2018.domain.Category;
-import altair2018.domain.Device;
-import altair2018.domain.DomainEntity;
-import altair2018.domain.HostStatus;
-import altair2018.domain.Location;
-import altair2018.domain.Manufactor;
-import altair2018.domain.Owner;
-import altair2018.domain.Status;
-import altair2018.domain.SupportTeam;
-import altair2018.domain.Type;
+import crazycalendar.domain.Category;
+import crazycalendar.domain.Device;
+import crazycalendar.domain.DomainEntity;
+import crazycalendar.domain.HostStatus;
+import crazycalendar.domain.Location;
+import crazycalendar.domain.Manufactor;
+import crazycalendar.domain.Owner;
+import crazycalendar.domain.Status;
+import crazycalendar.domain.SupportTeam;
+import crazycalendar.domain.Type;
 
 
 /**

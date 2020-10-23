@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package altair2018.core.impl.business;
+package crazycalendar.core.impl.business;
 
-import altair2018.core.IStrategy;
-import altair2018.core.impl.dao.DeviceDAO;
-import altair2018.domain.DomainEntity;
+import crazycalendar.core.IStrategy;
+import crazycalendar.core.impl.dao.DeviceDAO;
+import crazycalendar.domain.DomainEntity;
 
 /**
  *

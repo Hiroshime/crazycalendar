@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package altair2018.control.web.command.impl;
+package crazycalendar.control.web.command.impl;
 
-import altair2018.control.web.command.ICommand;
-import altair2018.core.IFacade;
-import altair2018.core.impl.control.Facade;
+import crazycalendar.control.web.command.ICommand;
+import crazycalendar.core.IFacade;
+import crazycalendar.core.impl.control.Facade;
 
 /**
  *

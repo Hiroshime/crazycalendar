@@ -3,17 +3,17 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package altair2018.control.web.vh.impl;
+package crazycalendar.control.web.vh.impl;
 
 import java.io.IOException;
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import altair2018.control.web.vh.IViewHelper;
-import altair2018.core.application.Result;
-import altair2018.domain.DomainEntity;
-import altair2018.domain.User;
+import crazycalendar.control.web.vh.IViewHelper;
+import crazycalendar.core.application.Result;
+import crazycalendar.domain.DomainEntity;
+import crazycalendar.domain.User;
 
 /**
  *
